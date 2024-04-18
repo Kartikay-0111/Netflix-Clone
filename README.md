@@ -1,1 +1,1 @@
-Netflix Clone using HTML and CSS
+Netflix landing page Clone using HTML and CSS
